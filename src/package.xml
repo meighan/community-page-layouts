@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Layout_FixedNav_1_12_1 2</members>
+        <members>Layout_FixedNav_1_21_1</members>
+        <members>Layout_Full1_1_21</members>
+        <members>Layout_Full1_1_Full1_21</members>
+        <members>Layout_Full1_1_Full21_21</members>
+        <members>Layout_Full1_21</members>
+        <members>Layout_Full1_Full21_1_21</members>
+        <members>Layout_Full1_Full21_1_Full1_1</members>
+        <members>Layout_Full1BG_1</members>
+            <name>AuraDefinitionBundle</name>
+    </types>
+    <version>45.0</version>
+</Package>
