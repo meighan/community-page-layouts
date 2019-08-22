@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 640 640" width="640" height="640">
+    <defs>
+        <path d="M646.78 139.67L646.78 229.49L0 229.49L0 139.67L646.78 139.67Z" id="f3pcERcne"></path>
+        <path d="M640 0L640 128L0 128L0 0L640 0Z" id="a44LS4m1i"></path>
+        <path d="M0 583.53L0 640L640 640L640 583.53L0 583.53Z" id="b1phfgcSbc"></path>
+        <path d="M609.1 207.25L628.47 187.29L609.1 167.32L609.1 179.98L588.54 179.98L588.54 194.63L609.1 194.63L609.1 207.25Z" id="b40NwJ8FnC"></path>
+        <path d="M34.09 167.32L14.71 187.29L34.09 207.25L34.09 194.6L54.65 194.6L54.65 179.95L34.09 179.95L34.09 167.32Z" id="d1JUjJL6SC"></path>
+        <path d="M647 241.73L647 331.56L0.22 331.56L0.22 241.73L647 241.73Z" id="a4RsHzsB0"></path>
+        <path d="M643.39 345.11L643.39 567.13L-3.39 567.13L-3.39 345.11L643.39 345.11Z" id="e3xmCdjF2l"></path>
+    </defs>
+    <g>
+        <g>
+            <g>
+                <use xlink:href="#f3pcERcne" opacity="1" fill="#d8dde7" fill-opacity="1"></use>
+                <g>
+                    <use xlink:href="#f3pcERcne" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use>
+                </g>
+            </g>
+            <g>
+                <use xlink:href="#a44LS4m1i" opacity="1" fill="#d8dde7" fill-opacity="1"></use>
+                <g>
+                    <use xlink:href="#a44LS4m1i" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use>
+                </g>
+            </g>
+            <g>
+                <use xlink:href="#b1phfgcSbc" opacity="1" fill="#d8dde7" fill-opacity="1"></use>
+                <g>
+                    <use xlink:href="#b1phfgcSbc" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use>
+                </g>
+            </g>
+            <g>
+                <use xlink:href="#b40NwJ8FnC" opacity="1" fill="#ffffff" fill-opacity="1"></use>
+            </g>
+            <g>
+                <use xlink:href="#d1JUjJL6SC" opacity="1" fill="#ffffff" fill-opacity="1"></use>
+            </g>
+            <g>
+                <use xlink:href="#a4RsHzsB0" opacity="1" fill="#d8dde7" fill-opacity="1"></use>
+                <g>
+                    <use xlink:href="#a4RsHzsB0" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use>
+                </g>
+            </g>
+            <g>
+                <use xlink:href="#e3xmCdjF2l" opacity="1" fill="#d8dde7" fill-opacity="1"></use>
+                <g>
+                    <use xlink:href="#e3xmCdjF2l" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

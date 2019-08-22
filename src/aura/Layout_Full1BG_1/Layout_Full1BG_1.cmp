@@ -1,0 +1,17 @@
+<aura:component implements="forceCommunity:layout" description="Lead Banner, Full Column with BG, 1">
+    <aura:attribute name="leadBanner" type="Aura.Component[]" required="false"></aura:attribute>
+    <aura:attribute name="fullInBG" type="Aura.Component[]" required="false"></aura:attribute>
+    <aura:attribute name="full" type="Aura.Component[]" required="false"></aura:attribute>
+
+    <section class="lead-banner">
+        <div class="slds-m-bottom--xx-large">{!v.leadBanner}</div>
+        <section class="slds-container--x-large  slds-container--center slds-p-bottom--xx-large slds-p-horizontal--medium slds-grid--pull-padded  no-medium-pull">
+                {!v.fullInBG}
+        </section>
+    </section>
+
+    <section class="slds-container--x-large  slds-container--center slds-p-vertical--xx-large slds-p-horizontal--medium slds-grid--pull-padded  no-medium-pull">
+            {!v.full}
+    </section>
+
+</aura:component>
